@@ -1,0 +1,1 @@
+Diagnosis differs (STEMI vs unstable angina) and discharge date differs by one day. Procedure is worded differently but means the same. Reviewer should reject or send back.
